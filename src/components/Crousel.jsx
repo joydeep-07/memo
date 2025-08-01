@@ -20,7 +20,7 @@ const Carousel = () => {
 
   const images = [
     {
-      src: "https://drive.google.com/file/d/11E6JAic3-ueQdXn9E38vzrZivHy8ZMtR/view?usp=drive_link",
+      src: "https://drive.google.com/file/d/182Fs7TAo4PeymsVsIN0jlCzv-DWzk8nR/view?usp=drive_link",
       caption: "Tui ar ami just ekta perfect moment ❤️",
     },
     {
