@@ -97,7 +97,7 @@ const Letter = () => {
               Toke niye chinta korle mon santo hoye jai, aar sob kichu
               manageable mone hoy.
               <br />
-              Aar ektu ektu kore amra ja build kortesi seta amar jibon er best
+              Aar ektu ektu kore amra ja build korechi seta amar jiboner best
               feeling.
             </p>
             <p
@@ -109,7 +109,7 @@ const Letter = () => {
               Abar sorry je ei wish ta deri te ashchhe.
               <br />
               But next time, calendar set kore rakbo, so that tor haat dhore
-              first message tao ami dei.
+              first message ami e di.
             </p>
             <p
               className="text-base sm:text-lg font-serif text-amber-900 mb-3 sm:mb-4 leading-relaxed"
