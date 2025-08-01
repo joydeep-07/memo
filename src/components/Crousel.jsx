@@ -36,6 +36,10 @@ const Carousel = () => {
       src: "https://i.ibb.co/Nn39WvMn/pic7.jpg",
       caption: "Biryani date ?? ❤️",
     },
+    {
+      src: "https://i.ibb.co/9kbdPKvH/pic6.jpg",
+      caption: "Take me back to that day ❤️",
+    },
   ];
 
   useEffect(() => {
