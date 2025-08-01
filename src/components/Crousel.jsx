@@ -34,7 +34,7 @@ const Carousel = () => {
     },
     {
       src: "https://i.ibb.co/Nn39WvMn/pic7.jpg",
-      caption: "Ekta chhobi, onek mone porar golpo ❤️",
+      caption: "Biryani date ?? ❤️",
     },
   ];
 
