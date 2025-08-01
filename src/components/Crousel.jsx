@@ -20,20 +20,20 @@ const Carousel = () => {
 
   const images = [
     {
-      src: "../public/images/pic5.jpg",
+      src: "https://drive.google.com/file/d/11E6JAic3-ueQdXn9E38vzrZivHy8ZMtR/view?usp=drive_link",
       caption: "Tui ar ami just ekta perfect moment ❤️",
     },
     {
-      src: "../public/images/pic1.jpg",
+      src: "https://drive.google.com/file/d/182Fs7TAo4PeymsVsIN0jlCzv-DWzk8nR/view?usp=drive_link",
       caption: "Eivabei takiye thak, just you and me 😭",
     },
     {
-      src: "../public/images/pic3.jpg",
+      src: "https://drive.google.com/file/d/1RvIn1Yq7CqVgc-GVnGiC2Pz0OTGQ3yNo/view?usp=drive_link",
       caption:
         "Jekhanei jai ice cream is important, but you are the cherry on top 🍒",
     },
     {
-      src: "../public/images/pic6.jpg",
+      src: "https://drive.google.com/file/d/1KxcHV1pzPHHrVFROhfIT-N83w4Y-ZtOR/view?usp=drive_link",
       caption: "Ekta chhobi, onek mone porar golpo ❤️",
     },
   ];
